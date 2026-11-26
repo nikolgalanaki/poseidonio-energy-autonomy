@@ -48,7 +48,7 @@ def electric_balance(h: pd.DataFrame) -> pd.DataFrame:
 
 
 def worked_example_evaporation() -> dict:
-    """Αναλυτικό παράδειγμα: Εσωτερική δεξαμενή Α, ώρα λειτουργίας, χειμώνας."""
+    """Αναλυτικό παράδειγμα: Εσωτερική δεξαμενή 50 m, ώρα λειτουργίας, χειμώνας."""
     pool = site.pools[0]
     t_hall, rh = site.hall.air_temp_winter_c, site.hall.rh_setpoint
     pw = float(saturation_pressure_kpa(pool.water_temp_c))
