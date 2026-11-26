@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+# κλιματικές προβολές 2040 (cds_morphing_2040.py)
+cdsapi>=0.7.2
+xarray>=2024.1
+netCDF4>=1.6
+cftime>=1.6
