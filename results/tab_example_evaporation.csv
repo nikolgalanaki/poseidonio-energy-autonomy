@@ -1,0 +1,15 @@
+,0
+A,1050.0
+t_ground,8.2
+pw,2.9781
+pa,2.1809
+v,0.1
+FA,0.5
+m_kg_s,0.0167
+m_kg_h,60.0303
+q_evap_kw,40.5205
+q_conv_kw,0.0
+q_rad_kw,0.0
+q_cond_kw,9.4847
+q_makeup_kw,33.2537
+m_evap_kg_h,60.0303
